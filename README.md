@@ -1,4 +1,4 @@
-<h1 align="center">Hej, jeg hedder👋 Stella</h1>
+<h1 align="center">Hej, jeg hedder👋 Stella Stanek</h1>
 <h3 align="center">Kommende Datatekniker med speciele i programmering</h3>
 
 - 🔭 I’m currently working on [Blaaah](0000000)
