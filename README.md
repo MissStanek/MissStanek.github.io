@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **It systemer mm**
 
-- 👯 I’m looking to collaborate on [0000000](0000000)
+- 👯 I’m looking to collaborate on [00000](0000000)
 
 - 🤝 I’m looking for help with **Blaaah**
 
