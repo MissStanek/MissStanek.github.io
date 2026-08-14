@@ -1,6 +1,22 @@
 <h1 align="center">Hej, jeg hedder👋 Stella</h1>
 <h3 align="center">Kommende Datatekniker med speciele i programmering</h3>
 
+- 🔭 I’m currently working on [Blaaah](0000000)
+
+- 🌱 I’m currently learning **It systemer mm**
+
+- 👯 I’m looking to collaborate on [0000000](0000000)
+
+- 🤝 I’m looking for help with **Blaaah**
+
+- 👨‍💻 All of my projects are available at [00000000](00000000)
+
+- 💬 Ask me about **Projekter**
+
+- 📫 How to reach me **0000000**
+
+- ⚡ Fun fact **Jeg elsker programmering**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stella stanek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stella stanek" height="30" width="40" /></a>
