@@ -1,45 +1,13 @@
-<!DOCTYPE html>
-<html lang="da">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h1 align="center">Hej, jeg hedder👋 Stella</h1>
+<h3 align="center">Kommende Datatekniker med speciele i programmering</h3>
 
-    <title>Stella Stanek | Data og Kommunikation</title>
-</head>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/stella stanek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stella stanek" height="30" width="40" /></a>
+<a href="https://fb.com/stella stanek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stella stanek" height="30" width="40" /></a>
+<a href="https://instagram.com/000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="000000" height="30" width="40" /></a>
+<a href="https://discord.gg/00000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="00000000" height="30" width="40" /></a>
+</p>
 
-<body>
-
-    <h1>Hej, jeg hedder Stella Stanek 👋</h1>
-
-    <h2>Data og Kommunikation – GF2</h2>
-
-    <p>
-        Jeg er i gang med Data og Kommunikation og bygger løbende
-        mine kompetencer inden for IT.
-    </p>
-
-    <h2>Om mig</h2>
-
-    <p>
-        Her kommer der senere noget om mig, min baggrund og hvorfor
-        jeg har valgt IT og skiftet karriere.
-    </p>
-
-    <h2>Mine projekter</h2>
-
-    <p>
-        Her kommer mine skoleprojekter og andre IT-projekter.
-    </p>
-
-    <h2>Kompetencer</h2>
-
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Python</li>
-        <li>Linux</li>
-        <li>Netværk</li>
-    </ul>
-
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
